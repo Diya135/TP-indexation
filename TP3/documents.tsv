@@ -1,0 +1,25 @@
+D1	Information retrieval systems use inverted indexes for efficient search
+D2	The vector space model represents documents and queries as vectors
+D3	Boolean retrieval uses AND OR and NOT operators
+D4	TF IDF measures the importance of terms in documents
+D5	Search engines rank documents according to their relevance
+D6	BM25 is a ranking function used in information retrieval
+D7	Neural information retrieval uses deep learning models
+D8	Dense retrieval represents queries and documents using embeddings
+D9	Vector databases support similarity search over embeddings
+D10	Search engines use inverted indexes to retrieve documents efficiently
+D11	Inverted indexes store postings lists mapping terms to document identifiers
+D12	Cosine similarity calculates the cosine of the angle between two vectors
+D13	Term frequency reflects how often a term occurs within a document
+D14	Inverse document frequency penalizes terms that appear frequently across the collection
+D15	BM25 ranking function incorporates document length normalization and term frequency saturation
+D16	Dense retrieval and sparse retrieval can be combined in hybrid search engines
+D17	Modern search engines rank documents using machine learning and deep ranking models
+D18	Vector embeddings map semantic meanings of queries and documents into continuous vector space
+D19	Information retrieval evaluation relies on precision recall and mean average precision
+D20	Boolean search models evaluate queries through exact logical expressions without ranking
+D21	Stemming and lemmatization reduce words to their root forms for better recall
+D22	Relevance feedback improves information retrieval performance by expanding user queries
+D23	Approximate nearest neighbor algorithms speed up similarity search in large vector databases
+D24	TF IDF weighting balances local term importance and global term rarity
+D25	Inverted index compression reduces memory footprint in large scale search engines

@@ -1,0 +1,1191 @@
+{
+  "information": {
+    "df": 5,
+    "postings": {
+      "D1": {
+        "tf": 1
+      },
+      "D6": {
+        "tf": 1
+      },
+      "D7": {
+        "tf": 1
+      },
+      "D19": {
+        "tf": 1
+      },
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "retrieval": {
+    "df": 8,
+    "postings": {
+      "D1": {
+        "tf": 1
+      },
+      "D3": {
+        "tf": 1
+      },
+      "D6": {
+        "tf": 1
+      },
+      "D7": {
+        "tf": 1
+      },
+      "D8": {
+        "tf": 1
+      },
+      "D16": {
+        "tf": 2
+      },
+      "D19": {
+        "tf": 1
+      },
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "systems": {
+    "df": 1,
+    "postings": {
+      "D1": {
+        "tf": 1
+      }
+    }
+  },
+  "use": {
+    "df": 2,
+    "postings": {
+      "D1": {
+        "tf": 1
+      },
+      "D10": {
+        "tf": 1
+      }
+    }
+  },
+  "inverted": {
+    "df": 4,
+    "postings": {
+      "D1": {
+        "tf": 1
+      },
+      "D10": {
+        "tf": 1
+      },
+      "D11": {
+        "tf": 1
+      },
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "indexes": {
+    "df": 3,
+    "postings": {
+      "D1": {
+        "tf": 1
+      },
+      "D10": {
+        "tf": 1
+      },
+      "D11": {
+        "tf": 1
+      }
+    }
+  },
+  "efficient": {
+    "df": 1,
+    "postings": {
+      "D1": {
+        "tf": 1
+      }
+    }
+  },
+  "search": {
+    "df": 9,
+    "postings": {
+      "D1": {
+        "tf": 1
+      },
+      "D5": {
+        "tf": 1
+      },
+      "D9": {
+        "tf": 1
+      },
+      "D10": {
+        "tf": 1
+      },
+      "D16": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      },
+      "D20": {
+        "tf": 1
+      },
+      "D23": {
+        "tf": 1
+      },
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "vector": {
+    "df": 4,
+    "postings": {
+      "D2": {
+        "tf": 1
+      },
+      "D9": {
+        "tf": 1
+      },
+      "D18": {
+        "tf": 2
+      },
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "space": {
+    "df": 2,
+    "postings": {
+      "D2": {
+        "tf": 1
+      },
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "model": {
+    "df": 1,
+    "postings": {
+      "D2": {
+        "tf": 1
+      }
+    }
+  },
+  "represents": {
+    "df": 2,
+    "postings": {
+      "D2": {
+        "tf": 1
+      },
+      "D8": {
+        "tf": 1
+      }
+    }
+  },
+  "documents": {
+    "df": 7,
+    "postings": {
+      "D2": {
+        "tf": 1
+      },
+      "D4": {
+        "tf": 1
+      },
+      "D5": {
+        "tf": 1
+      },
+      "D8": {
+        "tf": 1
+      },
+      "D10": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      },
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "queries": {
+    "df": 5,
+    "postings": {
+      "D2": {
+        "tf": 1
+      },
+      "D8": {
+        "tf": 1
+      },
+      "D18": {
+        "tf": 1
+      },
+      "D20": {
+        "tf": 1
+      },
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "vectors": {
+    "df": 2,
+    "postings": {
+      "D2": {
+        "tf": 1
+      },
+      "D12": {
+        "tf": 1
+      }
+    }
+  },
+  "boolean": {
+    "df": 2,
+    "postings": {
+      "D3": {
+        "tf": 1
+      },
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "uses": {
+    "df": 2,
+    "postings": {
+      "D3": {
+        "tf": 1
+      },
+      "D7": {
+        "tf": 1
+      }
+    }
+  },
+  "operators": {
+    "df": 1,
+    "postings": {
+      "D3": {
+        "tf": 1
+      }
+    }
+  },
+  "tf": {
+    "df": 2,
+    "postings": {
+      "D4": {
+        "tf": 1
+      },
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "idf": {
+    "df": 2,
+    "postings": {
+      "D4": {
+        "tf": 1
+      },
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "measures": {
+    "df": 1,
+    "postings": {
+      "D4": {
+        "tf": 1
+      }
+    }
+  },
+  "importance": {
+    "df": 2,
+    "postings": {
+      "D4": {
+        "tf": 1
+      },
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "terms": {
+    "df": 3,
+    "postings": {
+      "D4": {
+        "tf": 1
+      },
+      "D11": {
+        "tf": 1
+      },
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "engines": {
+    "df": 5,
+    "postings": {
+      "D5": {
+        "tf": 1
+      },
+      "D10": {
+        "tf": 1
+      },
+      "D16": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      },
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "rank": {
+    "df": 2,
+    "postings": {
+      "D5": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      }
+    }
+  },
+  "according": {
+    "df": 1,
+    "postings": {
+      "D5": {
+        "tf": 1
+      }
+    }
+  },
+  "relevance": {
+    "df": 2,
+    "postings": {
+      "D5": {
+        "tf": 1
+      },
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "bm25": {
+    "df": 2,
+    "postings": {
+      "D6": {
+        "tf": 1
+      },
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "ranking": {
+    "df": 4,
+    "postings": {
+      "D6": {
+        "tf": 1
+      },
+      "D15": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      },
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "function": {
+    "df": 2,
+    "postings": {
+      "D6": {
+        "tf": 1
+      },
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "used": {
+    "df": 1,
+    "postings": {
+      "D6": {
+        "tf": 1
+      }
+    }
+  },
+  "neural": {
+    "df": 1,
+    "postings": {
+      "D7": {
+        "tf": 1
+      }
+    }
+  },
+  "deep": {
+    "df": 2,
+    "postings": {
+      "D7": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      }
+    }
+  },
+  "learning": {
+    "df": 2,
+    "postings": {
+      "D7": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      }
+    }
+  },
+  "models": {
+    "df": 3,
+    "postings": {
+      "D7": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      },
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "dense": {
+    "df": 2,
+    "postings": {
+      "D8": {
+        "tf": 1
+      },
+      "D16": {
+        "tf": 1
+      }
+    }
+  },
+  "using": {
+    "df": 2,
+    "postings": {
+      "D8": {
+        "tf": 1
+      },
+      "D17": {
+        "tf": 1
+      }
+    }
+  },
+  "embeddings": {
+    "df": 3,
+    "postings": {
+      "D8": {
+        "tf": 1
+      },
+      "D9": {
+        "tf": 1
+      },
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "databases": {
+    "df": 2,
+    "postings": {
+      "D9": {
+        "tf": 1
+      },
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "support": {
+    "df": 1,
+    "postings": {
+      "D9": {
+        "tf": 1
+      }
+    }
+  },
+  "similarity": {
+    "df": 3,
+    "postings": {
+      "D9": {
+        "tf": 1
+      },
+      "D12": {
+        "tf": 1
+      },
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "retrieve": {
+    "df": 1,
+    "postings": {
+      "D10": {
+        "tf": 1
+      }
+    }
+  },
+  "efficiently": {
+    "df": 1,
+    "postings": {
+      "D10": {
+        "tf": 1
+      }
+    }
+  },
+  "store": {
+    "df": 1,
+    "postings": {
+      "D11": {
+        "tf": 1
+      }
+    }
+  },
+  "postings": {
+    "df": 1,
+    "postings": {
+      "D11": {
+        "tf": 1
+      }
+    }
+  },
+  "lists": {
+    "df": 1,
+    "postings": {
+      "D11": {
+        "tf": 1
+      }
+    }
+  },
+  "mapping": {
+    "df": 1,
+    "postings": {
+      "D11": {
+        "tf": 1
+      }
+    }
+  },
+  "document": {
+    "df": 4,
+    "postings": {
+      "D11": {
+        "tf": 1
+      },
+      "D13": {
+        "tf": 1
+      },
+      "D14": {
+        "tf": 1
+      },
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "identifiers": {
+    "df": 1,
+    "postings": {
+      "D11": {
+        "tf": 1
+      }
+    }
+  },
+  "cosine": {
+    "df": 1,
+    "postings": {
+      "D12": {
+        "tf": 2
+      }
+    }
+  },
+  "calculates": {
+    "df": 1,
+    "postings": {
+      "D12": {
+        "tf": 1
+      }
+    }
+  },
+  "angle": {
+    "df": 1,
+    "postings": {
+      "D12": {
+        "tf": 1
+      }
+    }
+  },
+  "two": {
+    "df": 1,
+    "postings": {
+      "D12": {
+        "tf": 1
+      }
+    }
+  },
+  "term": {
+    "df": 3,
+    "postings": {
+      "D13": {
+        "tf": 2
+      },
+      "D15": {
+        "tf": 1
+      },
+      "D24": {
+        "tf": 2
+      }
+    }
+  },
+  "frequency": {
+    "df": 3,
+    "postings": {
+      "D13": {
+        "tf": 1
+      },
+      "D14": {
+        "tf": 1
+      },
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "reflects": {
+    "df": 1,
+    "postings": {
+      "D13": {
+        "tf": 1
+      }
+    }
+  },
+  "often": {
+    "df": 1,
+    "postings": {
+      "D13": {
+        "tf": 1
+      }
+    }
+  },
+  "occurs": {
+    "df": 1,
+    "postings": {
+      "D13": {
+        "tf": 1
+      }
+    }
+  },
+  "within": {
+    "df": 1,
+    "postings": {
+      "D13": {
+        "tf": 1
+      }
+    }
+  },
+  "inverse": {
+    "df": 1,
+    "postings": {
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "penalizes": {
+    "df": 1,
+    "postings": {
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "appear": {
+    "df": 1,
+    "postings": {
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "frequently": {
+    "df": 1,
+    "postings": {
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "across": {
+    "df": 1,
+    "postings": {
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "collection": {
+    "df": 1,
+    "postings": {
+      "D14": {
+        "tf": 1
+      }
+    }
+  },
+  "incorporates": {
+    "df": 1,
+    "postings": {
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "length": {
+    "df": 1,
+    "postings": {
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "normalization": {
+    "df": 1,
+    "postings": {
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "saturation": {
+    "df": 1,
+    "postings": {
+      "D15": {
+        "tf": 1
+      }
+    }
+  },
+  "sparse": {
+    "df": 1,
+    "postings": {
+      "D16": {
+        "tf": 1
+      }
+    }
+  },
+  "can": {
+    "df": 1,
+    "postings": {
+      "D16": {
+        "tf": 1
+      }
+    }
+  },
+  "combined": {
+    "df": 1,
+    "postings": {
+      "D16": {
+        "tf": 1
+      }
+    }
+  },
+  "hybrid": {
+    "df": 1,
+    "postings": {
+      "D16": {
+        "tf": 1
+      }
+    }
+  },
+  "modern": {
+    "df": 1,
+    "postings": {
+      "D17": {
+        "tf": 1
+      }
+    }
+  },
+  "machine": {
+    "df": 1,
+    "postings": {
+      "D17": {
+        "tf": 1
+      }
+    }
+  },
+  "map": {
+    "df": 1,
+    "postings": {
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "semantic": {
+    "df": 1,
+    "postings": {
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "meanings": {
+    "df": 1,
+    "postings": {
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "continuous": {
+    "df": 1,
+    "postings": {
+      "D18": {
+        "tf": 1
+      }
+    }
+  },
+  "evaluation": {
+    "df": 1,
+    "postings": {
+      "D19": {
+        "tf": 1
+      }
+    }
+  },
+  "relies": {
+    "df": 1,
+    "postings": {
+      "D19": {
+        "tf": 1
+      }
+    }
+  },
+  "precision": {
+    "df": 1,
+    "postings": {
+      "D19": {
+        "tf": 2
+      }
+    }
+  },
+  "recall": {
+    "df": 2,
+    "postings": {
+      "D19": {
+        "tf": 1
+      },
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "mean": {
+    "df": 1,
+    "postings": {
+      "D19": {
+        "tf": 1
+      }
+    }
+  },
+  "average": {
+    "df": 1,
+    "postings": {
+      "D19": {
+        "tf": 1
+      }
+    }
+  },
+  "evaluate": {
+    "df": 1,
+    "postings": {
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "exact": {
+    "df": 1,
+    "postings": {
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "logical": {
+    "df": 1,
+    "postings": {
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "expressions": {
+    "df": 1,
+    "postings": {
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "without": {
+    "df": 1,
+    "postings": {
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
+  "stemming": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "lemmatization": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "reduce": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "words": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "root": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "forms": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "better": {
+    "df": 1,
+    "postings": {
+      "D21": {
+        "tf": 1
+      }
+    }
+  },
+  "feedback": {
+    "df": 1,
+    "postings": {
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "improves": {
+    "df": 1,
+    "postings": {
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "performance": {
+    "df": 1,
+    "postings": {
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "expanding": {
+    "df": 1,
+    "postings": {
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "user": {
+    "df": 1,
+    "postings": {
+      "D22": {
+        "tf": 1
+      }
+    }
+  },
+  "approximate": {
+    "df": 1,
+    "postings": {
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "nearest": {
+    "df": 1,
+    "postings": {
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "neighbor": {
+    "df": 1,
+    "postings": {
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "algorithms": {
+    "df": 1,
+    "postings": {
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "speed": {
+    "df": 1,
+    "postings": {
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "large": {
+    "df": 2,
+    "postings": {
+      "D23": {
+        "tf": 1
+      },
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "weighting": {
+    "df": 1,
+    "postings": {
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "balances": {
+    "df": 1,
+    "postings": {
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "local": {
+    "df": 1,
+    "postings": {
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "global": {
+    "df": 1,
+    "postings": {
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "rarity": {
+    "df": 1,
+    "postings": {
+      "D24": {
+        "tf": 1
+      }
+    }
+  },
+  "index": {
+    "df": 1,
+    "postings": {
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "compression": {
+    "df": 1,
+    "postings": {
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "reduces": {
+    "df": 1,
+    "postings": {
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "memory": {
+    "df": 1,
+    "postings": {
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "footprint": {
+    "df": 1,
+    "postings": {
+      "D25": {
+        "tf": 1
+      }
+    }
+  },
+  "scale": {
+    "df": 1,
+    "postings": {
+      "D25": {
+        "tf": 1
+      }
+    }
+  }
+}
