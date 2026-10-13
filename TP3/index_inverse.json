@@ -264,6 +264,14 @@
       }
     }
   },
+  "not": {
+    "df": 1,
+    "postings": {
+      "D3": {
+        "tf": 1
+      }
+    }
+  },
   "operators": {
     "df": 1,
     "postings": {
@@ -362,6 +370,17 @@
     "df": 1,
     "postings": {
       "D5": {
+        "tf": 1
+      }
+    }
+  },
+  "their": {
+    "df": 2,
+    "postings": {
+      "D5": {
+        "tf": 1
+      },
+      "D21": {
         "tf": 1
       }
     }
@@ -634,6 +653,14 @@
       }
     }
   },
+  "between": {
+    "df": 1,
+    "postings": {
+      "D12": {
+        "tf": 1
+      }
+    }
+  },
   "two": {
     "df": 1,
     "postings": {
@@ -671,6 +698,14 @@
     }
   },
   "reflects": {
+    "df": 1,
+    "postings": {
+      "D13": {
+        "tf": 1
+      }
+    }
+  },
+  "how": {
     "df": 1,
     "postings": {
       "D13": {
@@ -921,6 +956,14 @@
       }
     }
   },
+  "through": {
+    "df": 1,
+    "postings": {
+      "D20": {
+        "tf": 1
+      }
+    }
+  },
   "exact": {
     "df": 1,
     "postings": {
@@ -1082,6 +1125,14 @@
     }
   },
   "speed": {
+    "df": 1,
+    "postings": {
+      "D23": {
+        "tf": 1
+      }
+    }
+  },
+  "up": {
     "df": 1,
     "postings": {
       "D23": {

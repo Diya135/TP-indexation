@@ -1,0 +1,4 @@
+doc1: le chat dort dans la maison
+doc2: la maison est grande et belle
+doc3: le chien court dans le jardin
+doc4: belle maison avec jardin et terrasse
